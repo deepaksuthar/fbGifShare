@@ -13,6 +13,6 @@
 </head>
 <body>
 	 <?php  echo '<img src="/gifs/'.$_GET['gif'].'.gif">' ?>
-	 <?php  echo '<a  href="http://www.facebook.com/sharer/sharer.php?u=https://fb-gif-share.herokuapp.com?gif='.$_GET['gif'].'&quote=This is a custom string" title="Share to Facebook"></a>' ?>
+	 <?php  echo '<a  href="http://www.facebook.com/sharer/sharer.php?u=https://fb-gif-share.herokuapp.com?gif='.$_GET['gif'].'&quote=This is a custom string" title="Share to Facebook">CLICK HERE TO SHARE</a>' ?>
 </body>
 </html>
